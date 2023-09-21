@@ -1,0 +1,78 @@
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+.direction {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    color: black;
+    background-color: #b8e4f4;
+    transition: background-color 0.3s, color 0.3s;
+}
+.direction:hover {
+    background-color: #b9c4b0; 
+    color: #f50a0a;
+}
+.MrsStockmann:hover{
+    color: rgb(249, 56, 8);
+    font-size: 20px;
+    text-shadow: 5px 5px 3px #8909e4;
+    border-style: dotted;
+}
+.MrsStockmann{
+    color: blue;
+    font-size: 16px;
+}
+.thomas{
+  color: blue;
+    font-size: 16px;
+}
+
+.drstockmann {
+    color: green;
+    font-size: 16px;
+}
+.drstockmann:hover{
+  color: rgb(249, 56, 8);
+  font-size: 20px;
+  text-shadow: 5px 5px 3px #8909e4;
+  border-style: dotted;
+}
+
+.table {
+    border: 5px  solid black;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+   .table th, table td {
+    margin: auto;
+    padding: 8px;
+    text-align: left;
+    border: black;
+    }
+    .table tr {
+      margin: auto;
+    padding: 8px;
+    text-align: left;
+    border: black;
+    }
+    .table tr:nth-child(even) {
+    background-color: #965f5f70;
+    }
+    
+    .table tr:nth-child(odd) {
+      background-color: #12e45c70;
+      }
+      .a{
+        font-size: 25px;
+      }
+.nav{
+  text-align: center;
+}
+.footer{
+  background-color: black;
+  color: white;
+}
